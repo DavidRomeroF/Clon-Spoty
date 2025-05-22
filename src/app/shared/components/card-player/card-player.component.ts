@@ -15,6 +15,10 @@ export class CardPlayerComponent {
     name: '',
     album: '',
     url: '',
-    cover:''
+    cover:'',
+    duration: {
+    start: 0,
+    end: 0
+  }
   } 
 }
