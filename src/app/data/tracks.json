@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "_id": 1,
+      "name": "6 DE FEBRERO",
+      "album": "Single",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2733abb15c582e7d3af0729b6a7",
+      "artist": {
+        "name": "Aitana",
+        "nickname": "Aitana",
+        "nationality": "ES"
+      },
+      "duration": {
+        "start": 0,
+        "end": 180
+      },
+      "url": "https://open.spotify.com/track/6DEFEBRERO"
+    },
+    {
+      "_id": 2,
+      "name": "Si Antes Te Hubiera Conocido",
+      "album": "Single",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27309f3604815ac05e5ece8e882",
+      "artist": {
+        "name": "Karol G",
+        "nickname": "Karol G",
+        "nationality": "CO"
+      },
+      "duration": {
+        "start": 0,
+        "end": 180
+      },
+      "url": "https://open.spotify.com/track/SIANTESEHUBIERACONOCIDO"
+    },
+    {
+      "_id": 3,
+      "name": "La Plena",
+      "album": "Single",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2734740100d84f3667f1eae6870",
+      "artist": {
+        "name": "W Sound 05, Beéle, Ovy On The Drums",
+        "nickname": "W Sound 05, Beéle, Ovy On The Drums",
+        "nationality": "CO"
+      },
+      "duration": {
+        "start": 0,
+        "end": 180
+      },
+      "url": "https://open.spotify.com/track/LAPLENA"
+    },
+    {
+      "_id": 4,
+      "name": "VITAMINA",
+      "album": "Single",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2737d7681c888513711781a6406",
+      "artist": {
+        "name": "Jombriel, DFZM, Jøtta",
+        "nickname": "Jombriel, DFZM, Jøtta",
+        "nationality": "ES"
+      },
+      "duration": {
+        "start": 0,
+        "end": 180
+      },
+      "url": "https://open.spotify.com/track/VITAMINA"
+    },
+    {
+      "_id": 5,
+      "name": "Real Gangsta Love",
+      "album": "El Último Baile",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27368a450f7bcdc187e20f0ba0a",
+      "artist": {
+        "name": "Trueno",
+        "nickname": "Trueno",
+        "nationality": "AR"
+      },
+      "duration": {
+        "start": 0,
+        "end": 180
+      },
+      "url": "https://open.spotify.com/track/REALGANGSTALOVE"
+    },
+    {
+      "_id": 6,
+      "name": "Cohete",
+      "album": "Las Mujeres Ya No Lloran",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2732d2db3082ecb89e0eca3c036",
+      "artist": {
+        "name": "Shakira, Rauw Alejandro",
+        "nickname": "Shakira, Rauw Alejandro",
+        "nationality": "CO, PR"
+      },
+      "duration": {
+        "start": 0,
+        "end": 180
+      },
+      "url": "https://open.spotify.com/track/COHETE"
+    },
+    {
+      "_id": 7,
+      "name": "Bota Niña",
+      "album": "La Joia",
+      "cover": "http://i.scdn.co/image/ab67616d0000b273aae4d69c976988ed29d6dab1",
+      "artist": {
+        "name": "Bad Gyal, Anitta",
+        "nickname": "Bad Gyal, Anitta",
+        "nationality": "ES, BR"
+      },
+      "duration": {
+        "start": 0,
+        "end": 180
+      },
+      "url": "https://open.spotify.com/track/BOTANINA"
+    },
+    {
+      "_id": 8,
+      "name": "Gran Vía",
+      "album": "Buenas Noches",
+      "cover": "https://i.scdn.co/image/ab67616d0000b2734b690afba75a356fcdad526e",
+      "artist": {
+        "name": "Quevedo, Aitana",
+        "nickname": "Quevedo, Aitana",
+        "nationality": "ES"
+      },
+      "duration": {
+        "start": 0,
+        "end": 180
+      },
+      "url": "https://open.spotify.com/track/GRANVIA"
+    }
+  ]
+}
