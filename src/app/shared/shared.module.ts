@@ -4,7 +4,6 @@ import { RouterModule } from '@angular/router';
 import { OrderListPipe } from './pipe/order-list.pipe';
 
 
-
 @NgModule({
   declarations: [
   ],
